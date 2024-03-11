@@ -1,0 +1,7 @@
+---
+jupyter: envpy39
+---
+
+# Preface {.unnumbered}
+
+These are the course notes to the Change Management workshops.
