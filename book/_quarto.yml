@@ -10,6 +10,8 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - principles.qmd
+    - leadership.qmd
     - summary.qmd
     - references.qmd
 

@@ -1,0 +1,367 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  letterpaper,
+  DIV=11,
+  numbers=noendperiod]{scrreprt}
+
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else  
+    % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\setcounter{secnumdepth}{5}
+% Make \paragraph and \subparagraph free-standing
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+% definitions for citeproc citations
+\NewDocumentCommand\citeproctext{}{}
+\NewDocumentCommand\citeproc{mm}{%
+  \begingroup\def\citeproctext{#2}\cite{#1}\endgroup}
+\makeatletter
+ % allow citations to break across lines
+ \let\@cite@ofmt\@firstofone
+ % avoid brackets around text for \cite:
+ \def\@biblabel#1{}
+ \def\@cite#1#2{{#1\if@tempswa , #2\fi}}
+\makeatother
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newenvironment{CSLReferences}[2] % #1 hanging-indent, #2 entry-spacing
+ {\begin{list}{}{%
+  \setlength{\itemindent}{0pt}
+  \setlength{\leftmargin}{0pt}
+  \setlength{\parsep}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+   \setlength{\leftmargin}{\cslhangindent}
+   \setlength{\itemindent}{-1\cslhangindent}
+  \fi
+  % set entry spacing
+  \setlength{\itemsep}{#2\baselineskip}}}
+ {\end{list}}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{\hfill\break\parbox[t]{\linewidth}{\strut\ignorespaces#1\strut}}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\@ifpackageloaded{bookmark}{}{\usepackage{bookmark}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage{bookmark}
+
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Change Management},
+  pdfauthor={Witek ten Hove},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Change Management}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{F-cluster HAN Business Management Studies}
+\author{Witek ten Hove}
+\date{2024-03-11}
+
+\begin{document}
+\maketitle
+
+\renewcommand*\contentsname{Table of contents}
+{
+\hypersetup{linkcolor=}
+\setcounter{tocdepth}{2}
+\tableofcontents
+}
+\bookmarksetup{startatroot}
+
+\chapter*{Preface}\label{preface}
+\addcontentsline{toc}{chapter}{Preface}
+
+\markboth{Preface}{Preface}
+
+These are the course notes to the Change Management workshops.
+
+\bookmarksetup{startatroot}
+
+\chapter{Introduction}\label{introduction}
+
+Welcome to F-cluster Change Management.
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule\noalign{}
+\# & Naam Competentie & Beschrijving Competentie & Beschrijving Niveau
+2 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+1 & Probleem herkennen en diagnosticeren & De startende BK-professional
+is in staat om problemen (cq. vraagstukken) van organisatorische aard te
+signaleren, te analyseren en te beoordelen ten behoeve van de
+effectiviteit van een organisatie en deze uit te werken tot een
+bedrijfskundig vraagstuk. & Kan een bedrijfskundig probleem onderkennen,
+mogelijke oorzaken en dwarsverbanden identificeren en beoordelen met
+behulp van meerdere bedrijfskundige analysetechnieken. Gaat hierbij op
+zoek naar aanvullende relevante en betrouwbare informatiebronnen. \\
+2 & Ontwerpen & De startende BK professional is in staat met een
+onderzoekende en nieuwsgierige houding op basis van een programma van
+eisen, ontwikkelingen en trends en evidence-based practices nieuwe
+ideeën te signaleren, te genereren en uit te voeren om de effectiviteit
+van een organisatie te verbeteren en bedrijfsprocessen te
+(her)ontwerpen. & Genereert en selecteert creatieve ideeën waardoor
+nieuwe mogelijkheden of oplossingen worden ontwikkeld en kan deze
+toepassen om bedrijfsprocessen en structuren te verbeteren, rekening
+houdend met kwaliteitscriteria. \\
+3 & Veranderen & De bedrijfskundige professional is in staat om
+(complexe) veranderingsprocessen vorm te geven en te (bege)leiden door
+verbinding te creëren tussen vakgebieden, structuren, mensen en
+processen. Hij hanteert hierbij een op draagvlak gerichte aanpak. & Kan
+vanuit een veranderkundige aanpak met bijbehorende rollen een
+bedrijfskundige verandering opzetten en begeleiden. Kan diverse passende
+veranderstrategieën formuleren en onderbouwen. \\
+4 & Evalueren & De startende bedrijfskundige professional is in staat de
+effectiviteit van verbeteracties te beoordelen en advies te geven over
+verdere ontwikkeling van de organisatie. De evaluatie wordt gebruikt om
+het leren van de organisatie te verbeteren en is gericht op de eerder
+gemaakte keuzes (diagnose en ontwerp). & Kan voor een
+verbeteractie/maatregel/beleid/project beoordelen met toepassing van
+bedrijfskundige modellen, bediscussieert daarbij de gestelde normen en
+doet aanbevelingen voor structurele verbetering. \\
+5 & Onderzoekend vermogen & De startende professional beargumenteert de
+keuze voor rol en aanpak om tot oplossing te komen van het
+bedrijfskundige vraagstuk. In de aanpak beschikt hij over een
+onderzoekende houding van waaruit hij denkt en werkt. Hij past kennis
+uit beschikbaar onderzoek toe in de eigen werkpraktijk en ontwerpt en
+voert methodisch zelf (kleinschalig) praktijkgericht onderzoek uit. & In
+staat zelf onderzoek te doen volgens de werkcyclus van praktijkgericht
+onderzoek. \\
+6 & Sociaal communicatieve vaardigheden & De startende BK professional
+kan zowel in de Nederlandse als Engelse taal ideeën, meningen,
+standpunten, en besluiten begrijpelijk en overtuigend overbrengen
+afgestemd op de toehoorder en/of in begrijpelijke en correcte taal op
+schrift stellen en afstemmen op de lezer. Bewust van de eigen rol in de
+interactie met anderen en kan gespreksvaardigheden inzetten om sturing
+te geven aan het realiseren van de bedrijfskundige doelen. & Kan
+mondeling en schriftelijk communiceren intern op alle niveaus effectief
+en in de gangbare bedrijfstaal, veelal in het Nederlands en/of Engels.
+Kan een adviesvraag helder krijgen. Weet verschillende gespreks- en
+communicatievormen te onderscheiden en gericht toe te passen. \\
+7 & Schakelen en verbinden & De startende professional kan waardevolle
+(internationale) relaties leggen en allianties aangaan binnen en buiten
+de organisatie(keten) voor het verkrijgen van informatie, steun en
+medewerking. Hij weet wat er nodig is om relevante verbindingen te
+leggen tussen mensen en de verschillende functionele gebieden en niveaus
+en kan daar soepel tussen schakelen. & Kan het krachtenveld van in- en
+externe actoren van een (tijdelijke) organisatie in kaart brengen. Kan
+bestaande relaties beheren en evalueren. \\
+8 & Professionaliseren & De startende BK professional is in staat via de
+weg van reflectie zich professioneel te blijven ontwikkelen en een
+bijdrage te leveren aan de ontwikkeling van de organisatie en de
+beroepspraktijk door opgedane ervaringen en feedback te gebruiken voor
+persoonlijke groei. & De student reikt nieuwe inzichten aan uit
+resultaten uit theorie en praktijk. Kan, op basis van reflectie op
+zichzelf en van de omgeving, gestructureerd aan zijn ontwikkeling
+werken. \\
+9 & Handelen vanuit waarden & De startende bedrijfskundige professional
+handelt vanuit een waardenbesef en heeft bij het zoeken naar oplossingen
+voor bedrijfskundige vraagstukken oog voor mogelijke consequenties van
+(bewuste of onbewuste) keuzes en handelingen op de langere termijn. &
+Heeft zicht op de mogelijke consequenties van bedrijfskundig handelen
+voor stakeholders, milieu en maatschappij. \\
+Overkoepelend & Bedrijfskundig redeneren & De startende professional is
+in staat tot onderbouwde argumenten te komen voor een integraal advies
+op basis van data, theorie, de bedrijfskundige professionele vakmanschap
+en persoonlijke inbreng, zodat besluitvorming hierop plaats kan vinden.
+De student heeft zicht op de bedrijfskundige aspecten in relatie tot
+elkaar conform het bedrijfskundig model (niveaus/breedte: disciplines).
+& De student onderbouwt een bedrijfskundig advies door bedrijfskundige
+kennis en vaardigheid toe te passen in het continu proces van
+gegevensverzameling en analyse, gericht op de vragen en problemen van
+een organisatie en diens stakeholders. \\
+\end{longtable}
+
+\bookmarksetup{startatroot}
+
+\chapter{Key principles}\label{key-principles}
+
+\includegraphics{index_files/mediabag/Kotters-8-Steps.jpg}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+\# & Short Name for Principle & Long Description of Principle \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+1 & Diagnosis Step \#1 & Gathering facts to understand the need for
+change and pre-existing conditions that might affect its
+implementation. \\
+2 & Diagnosis Step \#2 & Assessing the organization\textquotesingle s
+readiness for change, including history with change, stress levels, and
+leadership capabilities. \\
+3 & Evidence-Based Interventions & Choosing interventions based on
+diagnosis, expertise, stakeholder input, and scientific evidence. \\
+4 & Change Leadership & Developing leadership skills at all levels to
+effectively guide and implement change. \\
+5 & Clear Compelling Vision & Creating a distinct and motivating vision
+that signals a break from the past. \\
+6 & Vision Communication & Communicating the vision across the
+organization in an understandable and compelling way. \\
+7 & Employee Participation & Encouraging active involvement from
+employees to reduce resistance and increase buy-in. \\
+8 & Empower and Enable & Empowering employees by providing resources,
+training, and removing obstacles. \\
+9 & Short-Term Wins & Identifying and celebrating early successes to
+build momentum for the change. \\
+10 & Monitor and Adjust & Regularly assessing and adjusting the change
+process to ensure it is on track. \\
+11 & Institutionalize Change & Embedding the change into the
+organization\textquotesingle s culture and practices for lasting
+impact. \\
+\end{longtable}
+
+\bookmarksetup{startatroot}
+
+\chapter{Leadership}\label{leadership}
+
+\bookmarksetup{startatroot}
+
+\chapter{Summary}\label{summary}
+
+In summary, this book has no content whatsoever.
+
+\bookmarksetup{startatroot}
+
+\chapter*{References}\label{references}
+\addcontentsline{toc}{chapter}{References}
+
+\markboth{References}{References}
+
+\phantomsection\label{refs}
+\begin{CSLReferences}{0}{1}
+\end{CSLReferences}
+
+
+
+\end{document}
