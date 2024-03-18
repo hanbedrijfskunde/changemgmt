@@ -14,9 +14,9 @@ Welcome to F-cluster Change Management.
     <thead>
       <tr>
         <th scope="col">#</th>
-        <th scope="col">Naam Competentie</th>
-        <th scope="col">Beschrijving Competentie</th>
-        <th scope="col">Beschrijving Niveau 2</th>
+        <th scope="col">Competentie</th>
+        <th scope="col">Beschrijving</th>
+        <th scope="col">Niveau 2</th>
       </tr>
     </thead>
     <tbody>

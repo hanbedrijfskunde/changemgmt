@@ -13,8 +13,8 @@ Key evidence-based change management principles [@stouten_successful_2018]
   <thead>
     <tr>
       <th scope="col">#</th>
-      <th scope="col">Short Name for Principle</th>
-      <th scope="col">Long Description of Principle</th>
+      <th scope="col">Principle</th>
+      <th scope="col">Description</th>
     </tr>
   </thead>
   <tbody>
