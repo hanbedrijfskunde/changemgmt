@@ -48,21 +48,17 @@ Lewin's Change Management Model, also known as the Unfreeze-Change-Refreeze Mode
 
 While each model has its unique strengths, they can be translated into each other to provide a more comprehensive change management approach. For example, Kotter's 8-Step Change Model can be seen as a more detailed version of Lewin's Unfreeze-Change-Refreeze Model, with each step representing a different aspect of the change process. Similarly, the ADKAR Model can be seen as a more individual-focused approach, providing a framework for understanding and managing the personal aspects of change.
 
-In summary, this chapter will explore these three models of change management, their key elements, and how they can be translated into each other to provide a more comprehensive understanding of change management processes.
+### Managerial Guide for Applying Change Models
 
-Managerial Guide for Applying Change Models
-Change management models, such as Kotter's 8-Step Change Model, Prosci's ADKAR Model, and Lewin's Change Management Model, provide valuable insights and frameworks for managing organizational change. However, these models should be adapted and integrated with the specific context of the change and the organization to ensure their effectiveness.
-
-Here are some key evidence-based change management principles to consider when applying these models in practice: [@stouten_successful_2018]
+Change management models, such as Kotter's 8-Step Change Model, Prosci's ADKAR Model, and Lewin's Change Management Model, provide valuable insights and frameworks for managing organizational change. However, these models should be adapted and integrated with the specific context of the change and the organization to ensure their effectiveness. Following are some key evidence-based change management principles to consider when applying these models in practice [@stouten_successful_2018].
 
 ```{=html}
-<div class="table-responsive m-5">
-<table class="table table-striped table-hover">
+<table class="table table-striped">
   <thead>
     <tr>
       <th scope="col">#</th>
-      <th scope="col">Principle</th>
-      <th scope="col">Description</th>
+      <th scope="col">Short Name for Principle</th>
+      <th scope="col">Long Description of Principle</th>
     </tr>
   </thead>
   <tbody>
@@ -118,7 +114,8 @@ Here are some key evidence-based change management principles to consider when a
     </tr>
   </tbody>
 </table>
-</div>
+
+
 ```
 
 ## Businesss Cases
@@ -198,61 +195,53 @@ The model has significant implications for change agents and change processes.
 By understanding these implications and applying them effectively in practice, change agents can navigate complex change processes more adeptly, tailor interventions to specific organizational contexts, and foster sustainable organizational development through strategic and thoughtful change management practices.
 
 ```{=html}
-<div class="container mt-5">
-    <h4>Knowledge and Skills Requirements of the Organization Development Practitioner</h2>
-    <table class="table table-bordered">
-        <thead>
-            <tr>
-                <th>Existing System - Knowledge</th>
-                <th>How Systems Change Over Time - Knowledge</th>
-                <th>How Systems Change Over Time - Skills</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Existing system − Knowledge</td>
-                <td>How systems change over time − Knowledge</td>
-                <td>How systems change over time − Skills</td>
-            </tr>
-            <tr>
-                <td>Organization behaviour<br>A. Organization culture<br>B. Work design<br>C. Interpersonal relations<br>D. Power and politics<br>E. Leadership<br>F. Goal setting<br>G. Conflict<br>H. Ethics</td>
-                <td>Organization design<br>Decision making process associated with formulating and aligning HR systems; information systems; reward systems; work design; political systems; culture; etc.<br>A. The concept of fit and alignment<br>B. Diagnostic and design model for sub-systems<br>C. Key thought leaders in organization design</td>
-                <td>Managing the consulting process<br>A. Entry<br>B. Contracting<br>C. Diagnosing<br>D. Designing interventions<br>E. Implementation<br>F. Managing emergent issues<br>G. Evaluation</td>
-            </tr>
-            <tr>
-                <td>Individual psychology<br>A. Learning theory<br>B. Motivation theory<br>C. Perception theory</td>
-                <td>Organization research<br>Field research; interviewing; content analysis; change evaluation processes; quantitative and qualitative methods</td>
-                <td>Analysis/diagnosis<br>Inquiry into the system’s effectiveness at an individual, group and organization wide level<br>Ability to understand and inquire into one’s self</td>
-            </tr>
-            <tr>
-                <td>Group dynamics<br>A. Roles<br>B. Communication processes<br>C. Decision-making process<br>D. Stages of group development<br>E. leadership</td>
-                <td>System dynamics<br>Understanding of how systems evolve and develop over time; how systems respond to planned and unplanned interventions;</td>
-                <td>Designing/choosing appropriate and relevant interventions<br>Understanding how to select, modify, or design effective interventions that will move the organization from its current state to its desired future state</td>
-            </tr>
-            <tr>
-                <td>Management and organization theory<br>A. Planning, organizing, leading, and controlling<br>B. Problem solving and decision making<br>C. Systems theory<br>D. Contingency theory<br>E. Organization structure<br>F. Characteristics of environment and technology<br>G. Models of organization and system</td>
-                <td>History of organization development<br>A. Human relations movement<br>B. National Training Lab<br>C. Survey research<br>D. Quality of life<br>E. Tavistock Institute<br>F. Key thought leaders<br>G. Humanistic values<br>H. Statement of ethics</td>
-                <td>Facilitation and process consultation<br>Ability to assist an individual or a group towards a goal<br>Ability to inquire into individual and group processes so that the client system (organization) maintains ownership of the issue, increases the capacity for reflection on the consequences of its behaviours and actions, and develops a sense of increased control and ability</td>
-            </tr>
-            <tr>
-                <td>Research methods/statistics<br>A. Measures of central tendency<br>B. Measures of dispersion<br>C. Basic sampling theory<br>D. Basic experimental design<br>E. Sample inferential statistics</td>
-                <td>Theories and models of change<br>A. Basic action research model<br>B. Change topologies<br>C. Lewin’s model<br>D. Transition models, etc</td>
-                <td>Developing client capability<br>The ability to conduct a change process so that the client is better able to plan and implement a successful change process in the future, using technologies of planned change in a values-based and ethical manner</td>
-            </tr>
-            <tr>
-                <td>Comparative cultural perspectives<br>A. Dimensions of national culture<br>B. Dimensions of industry culture<br>C. Systems implications</td>
-                <td></td>
-                <td></td>
-                <td>Evaluating organization change<br>The ability to design and implement a process to evaluate the impact and effects of change intervention, including control of alternative explanations and interpretations of performance outcomes</td>
-            </tr>
-            <tr>
-                <td>Functional knowledge of business<br>A. Interpersonal communication (listening, feedback, and articulation)<br>B. Collaboration/working together<br>C. Problem solving<br>D. Using new technology<br>E. Conceptualizing<br>F. Project management<br>G. Present/education/coach</td>
-                <td></td>
-                <td></td>
-            </tr>
-            </tbody>
-</div>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Existing System - Knowledge</th>
+            <th>How Systems Change Over Time - Knowledge</th>
+            <th>How Systems Change Over Time - Skills</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Organization behaviour<br>A. Organization culture<br>B. Work design<br>C. Interpersonal relations<br>D. Power and politics<br>E. Leadership<br>F. Goal setting<br>G. Conflict<br>H. Ethics</td>
+            <td>Organization design<br>Decision making process associated with formulating and aligning HR systems; information systems; reward systems; work design; political systems; culture; etc.<br>A. The concept of fit and alignment<br>B. Diagnostic and design model for sub-systems<br>C. Key thought leaders in organization design</td>
+            <td>Managing the consulting process<br>A. Entry<br>B. Contracting<br>C. Diagnosing<br>D. Designing interventions<br>E. Implementation<br>F. Managing emergent issues<br>G. Evaluation</td>
+        </tr>
+        <tr>
+            <td>Individual psychology<br>A. Learning theory<br>B. Motivation theory<br>C. Perception theory</td>
+            <td>Organization research<br>Field research; interviewing; content analysis; change evaluation processes; quantitative and qualitative methods</td>
+            <td>Analysis/diagnosis<br>Inquiry into the system’s effectiveness at an individual, group and organization wide level<br>Ability to understand and inquire into one’s self</td>
+        </tr>
+        <tr>
+            <td>Group dynamics<br>A. Roles<br>B. Communication processes<br>C. Decision-making process<br>D. Stages of group development<br>E. leadership</td>
+            <td>System dynamics<br>Understanding of how systems evolve and develop over time; how systems respond to planned and unplanned interventions;</td>
+            <td>Designing/choosing appropriate and relevant interventions<br>Understanding how to select, modify, or design effective interventions that will move the organization from its current state to its desired future state</td>
+        </tr>
+        <tr>
+            <td>Management and organization theory<br>A. Planning, organizing, leading, and controlling<br>B. Problem solving and decision making<br>C. Systems theory<br>D. Contingency theory<br>E. Organization structure<br>F. Characteristics of environment and technology<br>G. Models of organization and system</td>
+            <td>History of organization development<br>A. Human relations movement<br>B. National Training Lab<br>C. Survey research<br>D. Quality of life<br>E. Tavistock Institute<br>F. Key thought leaders<br>G. Humanistic values<br>H. Statement of ethics</td>
+            <td>Facilitation and process consultation<br>Ability to assist an individual or a group towards a goal<br>Ability to inquire into individual and group processes so that the client system (organization) maintains ownership of the issue, increases the capacity for reflection on the consequences of its behaviours and actions, and develops a sense of increased control and ability</td>
+        </tr>
+        <tr>
+            <td>Research methods/statistics<br>A. Measures of central tendency<br>B. Measures of dispersion<br>C. Basic sampling theory<br>D. Basic experimental design<br>E. Sample inferential statistics</td>
+            <td>Theories and models of change<br>A. Basic action research model<br>B. Change topologies<br>C. Lewin’s model<br>D. Transition models, etc</td>
+            <td>Developing client capability<br>The ability to conduct a change process so that the client is better able to plan and implement a successful change process in the future, using technologies of planned change in a values-based and ethical manner</td>
+        </tr>
+        <tr>
+            <td>Comparative cultural perspectives<br>A. Dimensions of national culture<br>B. Dimensions of industry culture<br>C. Systems implications</td>
+            <td></td>
+            <td>Evaluating organization change<br>The ability to design and implement a process to evaluate the impact and effects of change intervention, including control of alternative explanations and interpretations of performance outcomes</td>
+        </tr>
+        <tr>
+            <td>Functional knowledge of business<br>A. Interpersonal communication (listening, feedback, and articulation)<br>B. Collaboration/working together<br>C. Problem solving<br>D. Using new technology<br>E. Conceptualizing<br>F. Project management<br>G. Present/education/coach</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
 </table>
+
 ```
 
 From: @waddell2019organisational
