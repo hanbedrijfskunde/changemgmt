@@ -1,0 +1,187 @@
+---
+title: "Developing Dynamic Capabilities for Change and Agility"
+jupyter: envpy39
+---
+
+## Measuring Change
+
+The Changing Room Illusion
+
+## Measuring a growth mindset
+
+```{=html}
+
+<div class="container mt-4">
+        <h2>Principal Component Analysis with Varimax Rotation</h2>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">Statement</th>
+                    <th scope="col">Attitude towards empowered self-guidance</th>
+                    <th scope="col">Attitude towards customer co-creation</th>
+                    <th scope="col">Attitude towards learning spirit</th>
+                    <th scope="col">Attitude towards collaborative exchange</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>I can decide for myself how I achieve a work goal.</td>
+                    <td>0.71</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>I am good at organizing myself.</td>
+                    <td>0.63</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>I learn new skills that help me handle changes.</td>
+                    <td>0.59</td>
+                    <td></td>
+                    <td>0.48</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>I use mistakes as a chance for me to adjust my approach.</td>
+                    <td>0.58</td>
+                    <td></td>
+                    <td>0.37</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>I have the courage to take on new tasks for which I do not yet know all the requirements.</td>
+                    <td>0.58</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>I adjust to changes.</td>
+                    <td>0.54</td>
+                    <td></td>
+                    <td>0.37</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Through direct conversation, I try to find out what my customer needs.</td>
+                    <td></td>
+                    <td>0.79</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>I talk to my customers regularly.</td>
+                    <td></td>
+                    <td>0.76</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>I try to find out what is most important for the customer.</td>
+                    <td></td>
+                    <td>0.67</td>
+                    <td>0.45</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>While working, I frequently think about how my job helps customers.</td>
+                    <td></td>
+                    <td>0.63</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>I try to reach my goals by satisfying customers.</td>
+                    <td></td>
+                    <td>0.60</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>I come up with new ideas to better complete my tasks.</td>
+                    <td></td>
+                    <td></td>
+                    <td>0.72</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>I like exchanging views with others about the challenges of reaching our goal.</td>
+                    <td></td>
+                    <td></td>
+                    <td>0.71</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>It is important to me to always learn something new.</td>
+                    <td></td>
+                    <td></td>
+                    <td>0.66</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>I enjoy exploring new situations.</td>
+                    <td></td>
+                    <td></td>
+                    <td>0.57</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>I solve difficult challenges best when I work together with others in a team.</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td>0.76</td>
+                </tr>
+                <tr>
+                    <td>I like making my work transparent for others.</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td>0.63</td>
+                </tr>
+                <tr>
+                    <td>I appreciate the different perspectives within my team.</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td>0.60</td>
+                </tr>
+                <tr>
+                    <td>I like supporting other people in my team.</td>
+                    <td>0.52</td>
+                    <td></td>
+                    <td></td>
+                    <td>0.37</td>
+                </tr>
+                <tr>
+                    <td>I regularly review my approach with others.</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td>0.54</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+```
+
+From: @eilers_why_2022
+
+## Build your future CV
+
+What will be your path or paths towards the future versions of you?
+
+![[From](https://uxpressia.com/blog/how-to-create-persona-guide-examples)](images/persona-1.png)
+
+![From: @walter_organizational_2021](images/org-agility.png)
+
+![From: @baskarada_5s_2018](images/agility-capabilities.png)
+
+```{=html}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qzoIAJYPQwo?si=DSfwcxjyn-m1y9hl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+```
