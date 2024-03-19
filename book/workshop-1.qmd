@@ -124,7 +124,8 @@ Here are some key evidence-based change management principles [@stouten_successf
 ```{=html}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9KzIKFpKZKM?si=SHyLKcD9sJWW_Z5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ```
-Business Management students can learn several valuable lessons about change management from Satya Nadella's journey as CEO of Microsoft, as outlined in the video. Here are key takeaways and how they align with evidence-based change management principles:
+
+Several valuable lessons about change management from Satya Nadella's journey as CEO of Microsoft, as outlined in the video. Here are key takeaways and how they align with evidence-based change management principles:
 
 1.  **Embrace Change and Innovation (Principle 3: Implement Evidence-Based Change Interventions)**: Nadella's leadership at Microsoft highlights the importance of embracing change and pursuing innovation, especially with his focus on cloud computing and AI technologies. This principle emphasizes the need for organizations to adopt evidence-based interventions. Nadella shifted Microsoft's strategy towards areas like cloud services and open-source software, demonstrating a willingness to adapt and reinvent the company based on emerging trends and data.
 
