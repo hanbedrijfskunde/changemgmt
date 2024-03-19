@@ -3,7 +3,7 @@ project:
   output-dir: content
 
 book:
-  title: "Change Management"
+  title: "Workbook Change Management"
   subtitle: "F-cluster HAN Business Management Studies"
   author: "Witek ten Hove"
   date: "3/11/2024"
@@ -11,8 +11,8 @@ book:
     - index.qmd
     - intro.qmd
     - workshop-1.qmd
-    - workshop-2.qmd
-    - summary.qmd
+    # - workshop-2.qmd
+    # - summary.qmd
     - references.qmd
 
 bibliography: references.bib

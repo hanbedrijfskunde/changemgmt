@@ -177,9 +177,11 @@ What will be your path or paths towards the future versions of you?
 
 ![[From](https://uxpressia.com/blog/how-to-create-persona-guide-examples)](images/persona-1.png)
 
-![From: @walter_organizational_2021](images/org-agility.png)
+
 
 ![From: @baskarada_5s_2018](images/agility-capabilities.png)
+
+![From: @wendler2014development](images/org-agility-maturity.png)
 
 ```{=html}
 
