@@ -57,8 +57,8 @@ Change management models, such as Kotter's 8-Step Change Model, Prosci's ADKAR M
   <thead>
     <tr>
       <th scope="col">#</th>
-      <th scope="col">Short Name for Principle</th>
-      <th scope="col">Long Description of Principle</th>
+      <th scope="col">Principle</th>
+      <th scope="col">Descriptione</th>
     </tr>
   </thead>
   <tbody>
