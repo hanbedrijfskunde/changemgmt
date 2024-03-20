@@ -1,7 +1,55 @@
 ---
-title: "Introduction to Change Management and Organizational Agility"
+title: "Change Management and Organizational Agility"
 jupyter: envpy39
 ---
+
+## Change
+
+```{=html}
+<div class="embed-responsive embed-responsive-16by9 my-3">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TXk-Oc35oN4?si=JsEkK17sfnZgVB3V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+```
+
+In the landscape of business administration, the concept of "gradual change blindness," as illustrated by the Changing Room Illusion, provides a poignant parallel to the often-overlooked progression of technological disruption. Fourth-year business administration students are entering a professional world where change is not always a thunderous arrival of new technology but often a silent march of iterative updates and integrations. Similar to how multiple changes in the illusion escape detection, the nuanced increments of technology can remain under the corporate radar until their cumulative effect is suddenly and disruptively apparent.
+
+This is particularly relevant when contrasting linear and exponential growth. Linear growth is steady and consistent, much like adding a single brick each day to construct a wall. It is intuitive and predictable, aligning with the human tendency to expect more of the same at a manageable rate. Exponential growth, on the other hand, represents the kind of rapid acceleration that defines many technological advancements. It starts deceptively slowly, then rapidly expands, becoming overwhelming in its scope and impact. This type of growth is emblematic of digital advancements where initial slow developments can quickly lead to transformative change.
+
+![From: @trends2017rewriting](images/tech-adoption.png)
+
+In their their report @trends2017rewriting elucidate the impact of digitalization on the workforce. They highlight that technological proficiency is now a foundational element of human capital trends, demanding a reevaluation of traditional organizational structures. For businesses to remain viable and competitive in this swiftly evolving digital epoch, recognizing the signs of incremental change and preparing for its eventual acceleration is imperative.
+
+As future business leaders, you will need to cultivate a keen sensitivity to the undercurrents of change. This means not only tracking disruptive trends but also building organizational resilience and adaptability. The ability to harness these subtle shifts, rather than be undermined by them, will determine the success of your strategic endeavors. Thus, embracing a mindset attuned to both immediate and horizon-level changes will be critical in navigating the complexities of tomorrow's business challenges.
+
+::: callout-caution
+## Reflection
+
+
+Envision allocating your savings into a long-term investment, specifically for a duration of 50 years. You are considering two potential options:
+
+1. An investment vehicle providing a steady 6% annual interest rate, with the interest paid out each period rather than being reinvested.
+2. An alternative option offering a 4% annual interest rate, with the additional feature of reinvesting the accrued interest, compounding at the same rate.
+It is important to note that both options are structured to discourage early termination of the investment due to unfavorable financial penalties before the term ends.
+
+You are tasked with analyzing which option will result in exponential growth of your initial capital. Reflect upon the compounding nature of the second option compared to the linear growth of the first. Then, identify and explain your preferred investment choice, considering the potential long-term yield and your financial goals.
+:::
+
+## The heroes journey
+
+![[License](https://creativecommons.org/licenses/by-nc-sa/4.0/) & [Source](https://www.thearetical.com/the-heros-journey-spiral)](images/hero-journey.png)
+
+In the realm of change management, the journey an organization embarks upon can be strikingly analogous to the hero's journey, a narrative pattern identified by Joseph Campbell. Just as a hero begins in an ordinary world, an organization starts in a state of stasis — a familiar, yet often complacent environment where existing processes and cultures are firmly rooted. The call to adventure in change management parallels the hero's call, manifesting as market shifts, technological innovations, or internal challenges that compel the organization to step out of its comfort zone.
+
+```{=html}
+<div class="embed-responsive embed-responsive-16by9 my-3">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N5VgahGh2I0?si=Hq5dmVpd9pwbMrYr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+```
+As the hero faces trials and meets mentors, an organization navigating change confronts obstacles and seeks guidance from change leaders or external consultants. These mentors, much like the wise figures in myth, provide the knowledge, tools, and support needed to navigate the uncertain path of transformation. The organization's crossing of the threshold represents its commitment to change, leaving behind the old ways and venturing into the special world of new possibilities.
+
+The ordeal in a hero's journey is akin to the critical implementation phase where resistance, fear, and the strain of adaptation test the organization's resolve. Yet, it is within this crucible that the greatest growth occurs. When the hero seizes the sword, the organization, too, grasps new competencies and insights that become integral to its evolution.
+
+As the hero returns transformed, so does the organization ascend to a higher plane—more agile, resilient, and enlightened than before. This new state is not merely a destination but a plateau from which future journeys may begin. The organization's return to a 'new normal' mirrors the hero's return with the elixir—a renewal that enriches both its internal culture and its value to customers and stakeholders. This cyclical path of departure, initiation, and return is the essence of both the hero's journey and the transformative odyssey of organizational change.
 
 ## Change Management Frameworks
 
