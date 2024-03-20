@@ -11,7 +11,7 @@ book:
     - index.qmd
     - intro.qmd
     - workshop-1.qmd
-    # - workshop-2.qmd
+    - agility.qmd
     - feedback.qmd
     - references.qmd
 
