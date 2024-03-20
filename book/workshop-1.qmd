@@ -142,6 +142,12 @@ John Kotter's 8-Step Change Model is a widely recognized framework for managing 
 7.  **Consolidating Gains and Sustaining Acceleration**: Consolidating gains and sustaining acceleration is crucial to ensure the change is embedded and becomes the new norm.
 8.  **Institutionalizing Change**: Institutionalizing change is essential to ensure the change becomes a permanent part of the organization's culture.
 
+```{=html}
+<div class="embed-responsive embed-responsive-16by9 my-3">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOhYT737ItY?si=atlvl9LbTWJ3ZAdR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+```
+
 ### Prosci's ADKAR Model
 
 ![](images/adkar.webp)
