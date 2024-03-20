@@ -12,7 +12,7 @@ book:
     - intro.qmd
     - workshop-1.qmd
     # - workshop-2.qmd
-    # - summary.qmd
+    - feedback.qmd
     - references.qmd
 
 bibliography: references.bib

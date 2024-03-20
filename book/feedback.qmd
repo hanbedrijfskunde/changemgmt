@@ -1,0 +1,57 @@
+---
+title: "Participant Feedback"
+jupyter: envpy39
+---
+
+![](images/four-l.jpeg)
+
+The 4 L method of providing feedback on a training session is a structured approach that encourages reflective learning and actionable feedback. It stands for "Liked, Learned, Lacked, and Longed For." This method helps participants articulate their thoughts on the training's strengths, new knowledge gained, areas for improvement, and additional desires or needs. Here's how participants can use the 4 L method to provide feedback:
+
+### Instructions for Participants:
+
+**Introduction:**
+
+At the end of the training session, you will be asked to reflect on your experience and provide feedback using the 4 L method. This structured approach will help us understand what worked well, what knowledge you gained, what could be improved, and what else you wish the training could include.
+
+**1. Liked:**
+
+- Reflect on and list the aspects of the training session that you particularly enjoyed.
+
+- Consider the content, teaching methods, activities, interactions, or any specific moments that stood out positively.
+
+- Example: "I liked the group discussions because they allowed for diverse perspectives."
+
+**2. Learned:**
+
+- Identify and note down new information, skills, insights, or perspectives you gained from the training session.
+
+- Think about how the training expanded your knowledge or skills in a way that is beneficial to your personal or professional development.
+
+- Example: "I learned a new technique for managing team conflict that I wasn't aware of before."
+
+**3. Lacked:**
+
+- Consider and mention any areas where you felt the training session fell short. 
+
+- This could relate to content that was not covered but should have been, unclear explanations, insufficient time for certain topics, or any other gaps you perceived.
+
+- Be constructive in your criticism to help improve future sessions.
+
+- Example: "The session lacked detailed examples of how to apply the theories in real-life scenarios."
+
+**4. Longed For:**
+
+- Reflect on anything additional you wished the training session had included or covered more deeply. 
+
+- This could be topics, skills, methods of delivery, or resources that would have enhanced your learning experience.
+
+- Example: "I longed for more hands-on exercises to practice the techniques discussed."
+
+**Providing Your Feedback:**
+
+- Once you have your thoughts organized around these four categories, you will be asked to share your feedback. This can be done verbally in a group setting, written on post-it notes and placed on a feedback wall, or submitted through a feedback form, depending on the session's format.
+
+- Remember, your feedback is invaluable for assessing the training's effectiveness and making necessary adjustments to improve future sessions. Your honest and thoughtful responses are greatly appreciated.
+
+**Conclusion:**
+By utilizing the 4 L method for providing feedback, you contribute to a culture of continuous improvement and learning. Your insights not only help enhance the quality of training sessions but also ensure they remain relevant and responsive to participants' needs and expectations.

@@ -64,31 +64,32 @@ As the hero returns transformed, so does the organization ascend to a higher pla
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hhk4N9A0oCA?si=r-S_0QgNaLQT0Zvy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 ```
+
 **Participant Instructions:**
 
-1.  **Introduction to the Concept:**
+1.  **Introduction to the Concept** (15 minutes):
     -   Watch the video summarizing Joseph Campbell's hero's journey stages.
     -   Pay close attention to the [diagram](#fig-heroejourney) illustratating the hero’s journey.
-2.  **Forming Your Team's World:**
-    -   Join your team grab some paper, sticky notes and markers.
+2.  **Identifying the Ordinary World** (15 minutes):
+    -   Join your team and grab some paper, sticky notes and markers.
     -   Discuss the initial state of the organization before change began, known as the "ordinary world."
     -   Draw or list elements on your storyboard that represent this phase for your assigned organization.
-3.  **Recognizing the Need for Change:**
+3.  **Recognizing the Need for Change** (15 minutes):
     -   Determine what triggered the need for change in the organization, known as "the call to adventure."
     -   Add this inciting incident to your storyboard, depicting how it disrupted the organization's equilibrium.
-4.  **Encountering Trials and Finding Guidance:**
+4.  **Encountering Trials and Finding Guidance** (20 minutes):
     -   Identify the key challenges the organization faced during the change and the mentors who provided support.
     -   Illustrate the organization's commitment to change, the "crossing of the threshold," on your storyboard.
-5.  **Overcoming Challenges and Gaining Insights:**
+5.  **Overcoming Challenges and Gaining Insights** (20 minutes):
     -   Discuss the critical challenges, or "the ordeal," and the new skills or insights gained, known as "seizing the sword."
     -   Represent this transformation on your storyboard with appropriate symbols, drawings, or key terms.
-6.  **Illustrating the Transformation:**
+6.  **Illustrating the Transformation** (20 minutes):
     -   Visualize the organization's transformation and the "new normal" that emerged post-change.
     -   Detail how the change has positively impacted the organization on your storyboard.
-7.  **Presenting Your Journey:**
+7.  **Presenting Your Journey**  (45 minutes):
     -   Prepare to present your storyboard to the class, explaining each stage of the organization’s journey through change.
     -   Be ready to discuss the metaphor's relevance to the change management process.
-8.  **Reflecting on the Experience:**
+8.  **Reflecting on the Experience** (15 minutes):
     -   After all presentations, participate in a class discussion reflecting on the activity.
     -   Think about how this metaphorical journey can inform and guide your approach to change management in a real-world context.
 
@@ -356,29 +357,30 @@ In this game, the king visits his people. However, the king is lazy and wishes t
 
 **Participant Instructions:**
 
-1. **Setting Up the Game:**
-- The trainer is the king and selects one person from the group as his aide. The rest of the group represents the people.
-- An equal number of chairs as there are common subjects, plus one extra, are placed around the space. The chairs are randomly distributed throughout the area with enough space between them to allow for movement.
+1.  **Setting Up the Game:**
 
-2. **Commencing the Game:**
-- When the game starts, all subjects are seated, and one chair is left empty.
-- The king walks toward the empty chair.
-- To prevent the king from sitting down, one subject stands up and attempts to occupy the empty chair before the king reaches it.
-- However, this action leaves another chair empty, and the king proceeds towards it.
-- Again, a subject stands up to occupy that chair, and so on.
+-   The trainer is the king and selects one person from the group as his aide. The rest of the group represents the people.
+-   An equal number of chairs as there are common subjects, plus one extra, are placed around the space. The chairs are randomly distributed throughout the area with enough space between them to allow for movement.
 
-3. **Concluding the Round:**
-   - The round ends when the king finally sits down.
-   - After each round, take a moment to discuss as a group (without the king and the aide) how you can improve your strategy to keep the king moving longer in the next round.
-4. **Abiding by the Rules:**
-   - Only the appointed aide may communicate directly with the king.
-   - Chairs should remain in their initial positions throughout the game.
-   - All movements should be dignified and orderly; running, pushing, pulling, or blocking is not allowed.
-   - As soon as you rise from your chair, you must begin to walk.
+2.  **Commencing the Game:**
 
-5. **Reflecting on the Experience:**
-   - After the game, reflect on the group's performance, the clarity of communication, and the engagement of each participant.
-   - Discuss what strategies and approaches were effective in keeping the king moving and why.
+-   When the game starts, all subjects are seated, and one chair is left empty.
+-   The king walks toward the empty chair.
+-   To prevent the king from sitting down, one subject stands up and attempts to occupy the empty chair before the king reaches it.
+-   However, this action leaves another chair empty, and the king proceeds towards it.
+-   Again, a subject stands up to occupy that chair, and so on.
+
+3.  **Concluding the Round:**
+    -   The round ends when the king finally sits down.
+    -   After each round, take a moment to discuss as a group (without the king and the aide) how you can improve your strategy to keep the king moving longer in the next round.
+4.  **Abiding by the Rules:**
+    -   Only the appointed aide may communicate directly with the king.
+    -   Chairs should remain in their initial positions throughout the game.
+    -   All movements should be dignified and orderly; running, pushing, pulling, or blocking is not allowed.
+    -   As soon as you rise from your chair, you must begin to walk.
+5.  **Reflecting on the Experience:**
+    -   After the game, reflect on the group's performance, the clarity of communication, and the engagement of each participant.
+    -   Discuss what strategies and approaches were effective in keeping the king moving and why.
 :::
 
 The organizational agility conceptual map by @walter_organizational_2021 is designed to illustrate the key components and relationships within the concept of organizational agility (OA). The map is based on the original framework of Sharifi and Zhang (1999), which has been expanded and enriched with new insights. The map consists of four main categories:
@@ -423,3 +425,4 @@ This journey towards organizational agility involved addressing deep-rooted issu
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wtmW89I941I?si=6usogdSJIjC2_eop" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 ```
+
