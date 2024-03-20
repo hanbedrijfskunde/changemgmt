@@ -339,30 +339,6 @@ Review the knowledge and skill requirements of the organization development prac
 
 ## Corporate Agility
 
-### Game "The King and His People"
-
-In this game, the king visits his people. However, the king is lazy and wishes to sit down as soon as possible. The people, on the other hand, want to keep the king walking for as long as possible. This is healthy and allows him to meet new subjects.
-
-The trainer is the king and selects one person from the group as his aide. The rest of the group represents the people. An equal number of chairs as there are common subjects, plus one extra, are placed around the space. The chairs are randomly distributed throughout the area with enough space between them to allow for movement.
-
-When the game starts, all subjects are seated, and one chair is left empty. The king walks toward the empty chair. To prevent the king from sitting down, one subject stands up and attempts to occupy the empty chair before the king reaches it. However, this action leaves another chair empty, and the king proceeds towards it. Again, a subject stands up to occupy that chair, and so on.
-
-Once the king has taken a seat, the round is over. The objective is to keep the king walking for as long as possible. After each round, the subjects may confer. The king and his aide then leave the room.
-
-The following rules will be enforced by the aide:
-
-1.  Only the aide communicates directly with the king and vice versa.
-2.  The chairs remain in their initial positions.
-3.  Everyone (including the king) moves in a dignified manner. There is to be no running, pushing, pulling, or blocking.
-
-::: callout-caution
-## Reflection
-
-How effective was the group's performance? To what extent did they facilitate clear and effective communication? How engaged and interconnected was each member of the group throughout the planning process? Which approach or strategy proved successful?
-:::
-
-### Organizational Agility
-
 In the swiftly evolving landscape of modern business, organizational agility stands out as a cornerstone for success. This concept captures a company's proficiency in adjusting to both internal and external shifts, swiftly catering to customer needs, and spearheading changes that enhance culture, operational practices, and results. Central to agile methodologies is the Agile Manifesto, which prioritizes people and their interactions, functional products, collaborative customer relationships, and adaptability to change over rigid adherence to traditional processes and documentation.
 
 ![](images/agile-manifesto.png)
@@ -370,6 +346,40 @@ In the swiftly evolving landscape of modern business, organizational agility sta
 Organizations that successfully integrate these agile principles and nurture an agile culture are better positioned to navigate market dynamics, enhance employee engagement, and secure superior business achievements.
 
 ![From: @lewrick2022design](images/digital-org.png)
+
+::: callout-caution
+## The Royal Challenge: A Game of Chairs and Strategy
+
+In this game, the king visits his people. However, the king is lazy and wishes to sit down as soon as possible. The people, on the other hand, want to keep the king walking for as long as possible. This is healthy and allows him to meet new subjects.
+
+**Objective of the Game:** To engage participants in a dynamic and strategic game that simulates leadership, engagement, and collective strategy.
+
+**Participant Instructions:**
+
+1. **Setting Up the Game:**
+- The trainer is the king and selects one person from the group as his aide. The rest of the group represents the people.
+- An equal number of chairs as there are common subjects, plus one extra, are placed around the space. The chairs are randomly distributed throughout the area with enough space between them to allow for movement.
+
+2. **Commencing the Game:**
+- When the game starts, all subjects are seated, and one chair is left empty.
+- The king walks toward the empty chair.
+- To prevent the king from sitting down, one subject stands up and attempts to occupy the empty chair before the king reaches it.
+- However, this action leaves another chair empty, and the king proceeds towards it.
+- Again, a subject stands up to occupy that chair, and so on.
+
+3. **Concluding the Round:**
+   - The round ends when the king finally sits down.
+   - After each round, take a moment to discuss as a group (without the king and the aide) how you can improve your strategy to keep the king moving longer in the next round.
+4. **Abiding by the Rules:**
+   - Only the appointed aide may communicate directly with the king.
+   - Chairs should remain in their initial positions throughout the game.
+   - All movements should be dignified and orderly; running, pushing, pulling, or blocking is not allowed.
+   - As soon as you rise from your chair, you must begin to walk.
+
+5. **Reflecting on the Experience:**
+   - After the game, reflect on the group's performance, the clarity of communication, and the engagement of each participant.
+   - Discuss what strategies and approaches were effective in keeping the king moving and why.
+:::
 
 The organizational agility conceptual map by @walter_organizational_2021 is designed to illustrate the key components and relationships within the concept of organizational agility (OA). The map is based on the original framework of Sharifi and Zhang (1999), which has been expanded and enriched with new insights. The map consists of four main categories:
 
