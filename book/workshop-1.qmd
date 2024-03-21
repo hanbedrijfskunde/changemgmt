@@ -31,7 +31,7 @@ Envision allocating your savings into a long-term investment, specifically for a
 You are tasked with analyzing which option will result in exponential growth of your initial capital. Reflect upon the compounding nature of the second option compared to the linear growth of the first. Then, identify and explain your preferred investment choice, considering the potential long-term yield and your financial goals.
 :::
 
-## The Heroe's Journey
+## The Hero's Journey
 
 ![[License](https://creativecommons.org/licenses/by-nc-sa/4.0/) & [Source](https://www.thearetical.com/the-heros-journey-spiral)](images/hero-journey.png){#fig-heroejourney}
 
