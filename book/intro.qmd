@@ -101,7 +101,7 @@ Here's a detailed program outline for the two workshops on Change Management and
 
 This program is designed to provide a comprehensive understanding of change management and organizational agility, focusing on both foundational knowledge and practical skills for developing dynamic capabilities.
 
-## F-cluster programme
+## F-cluster program
 
 ![](images/fcluster.png)
 
