@@ -58,6 +58,7 @@ As the hero returns transformed, so does the organization ascend to a higher pla
 -   Large sheets of paper or a whiteboard
 -   Markers of various colors
 -   Sticky notes in multiple colors
+- Tape
 
 ```{=html}
 <div class="embed-responsive embed-responsive-16by9 my-3">
