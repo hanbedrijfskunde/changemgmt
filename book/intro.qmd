@@ -112,78 +112,78 @@ See below for Dutch version.
 ```{=html}
 <div class="table-responsive">
   <table class="table table-striped table-hover">
-  <thead>
-    <tr>
-      <th scope="col">#</th>
-      <th scope="col">Competency</th>
-      <th scope="col">Description</th>
-      <th scope="col">Level 2</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>Problem Recognition and Diagnosis</td>
-      <td>The nascent business administrative professional is capable of identifying, analyzing, and assessing problems (or issues) of an organizational nature to advance the effectiveness of an organization and to formulate these into a business-related inquiry.</td>
-      <td>Is able to recognize a business-related problem, identify potential causes and interrelations, and evaluate them using various business administrative analytical techniques. Seeks additional relevant and reliable information sources in the process.</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Designing</td>
-      <td>The nascent business administrative professional is able to, with an inquisitive and curious attitude, based on a set of requirements, trends and developments, and evidence-based practices, signal, generate, and execute new ideas to enhance the effectiveness of an organization and to redesign business processes.</td>
-      <td>Generates and selects creative ideas, developing new possibilities or solutions, and can apply these to improve business processes and structures, taking quality criteria into account.</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>Change Management</td>
-      <td>The business administrative professional is able to shape and guide (complex) change processes by creating connections between disciplines, structures, people, and processes, employing an approach focused on building consensus.</td>
-      <td>Can initiate and guide a business administrative change from a change management perspective with corresponding roles. Can formulate and substantiate various appropriate change strategies.</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Evaluating</td>
-      <td>The nascent business administrative professional is capable of assessing the effectiveness of improvement actions and providing advice on the further development of the organization. The evaluation is used to enhance organizational learning and focuses on the choices previously made (diagnosis and design).</td>
-      <td>Is able to assess an improvement action/initiative/policy/project using business administrative models, discusses the established standards therein, and makes recommendations for structural improvement.</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Inquiring Ability</td>
-      <td>The nascent professional justifies the choice of role and approach to resolving the business administrative issue. The approach is characterized by an inquiring attitude from which they think and work. Applies knowledge from available research to their own professional practice and designs and conducts methodical, small-scale, practice-oriented research themselves.</td>
-      <td>Capable of conducting independent research following the work cycle of practice-oriented research.</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>Social Communicative Skills</td>
-      <td>The nascent business administrative professional can convey ideas, opinions, positions, and decisions in a comprehensible and convincing manner both in Dutch and English, tailored to the listener, or put into writing in a comprehensible and correct language tailored to the reader. Aware of their own role in the interaction with others and can employ conversational skills to direct achieving business administrative goals.</td>
-      <td>Can communicate effectively in writing and verbally at all internal levels and in the prevailing business language, often in Dutch and/or English. Can clarify an advisory query. Knows how to distinguish between different forms of conversation and communication and apply them purposefully.</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>Switching and Connecting</td>
-      <td>The nascent professional can establish valuable (international) relationships and alliances within and outside the organizational chain to obtain information, support, and cooperation. Understands what is necessary to make relevant connections between people and various functional areas and levels and can switch between them with ease.</td>
-      <td>Can map the field of forces of internal and external actors of a (temporary) organization. Can manage and evaluate existing relationships.</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>Professionalizing</td>
-      <td>The nascent business administrative professional is capable, through reflection, of continuing to develop professionally and contributing to the development of the organization and professional practice by utilizing experiences and feedback for personal growth.</td>
-      <td>The student presents new insights from results from theory and practice. Based on self-reflection and environmental reflection, can work in a structured manner on their development.</td>
+<thead>
+  <tr>
+    <th scope="col">#</th>
+    <th scope="col">Competency</th>
+    <th scope="col">Description</th>
+    <th scope="col">Level 2</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>1</td>
+    <td>Problem Recognition and Diagnosis</td>
+    <td>The nascent business administrative professional is capable of identifying, analyzing, and assessing problems (or issues) of an organizational nature to advance the effectiveness of an organization and to formulate these into a business-related inquiry.</td>
+    <td>Is able to recognize a business-related problem, identify potential causes and interrelations, and evaluate them using various business administrative analytical techniques. Seeks additional relevant and reliable information sources in the process.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Designing</td>
+    <td>The nascent business administrative professional is able to, with an inquisitive and curious attitude, based on a set of requirements, trends and developments, and evidence-based practices, signal, generate, and execute new ideas to enhance the effectiveness of an organization and to redesign business processes.</td>
+    <td>Generates and selects creative ideas, developing new possibilities or solutions, and can apply these to improve business processes and structures, taking quality criteria into account.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Change Management</td>
+    <td>The business administrative professional is able to shape and guide (complex) change processes by creating connections between disciplines, structures, people, and processes, employing an approach focused on building consensus.</td>
+    <td>Can initiate and guide a business administrative change from a change management perspective with corresponding roles. Can formulate and substantiate various appropriate change strategies.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Evaluating</td>
+    <td>The nascent business administrative professional is capable of assessing the effectiveness of improvement actions and providing advice on the further development of the organization. The evaluation is used to enhance organizational learning and focuses on the choices previously made (diagnosis and design).</td>
+    <td>Is able to assess an improvement action/initiative/policy/project using business administrative models, discusses the established standards therein, and makes recommendations for structural improvement.</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Inquiring Ability</td>
+    <td>The nascent professional justifies the choice of role and approach to resolving the business administrative issue. The approach is characterized by an inquiring attitude from which they think and work. Applies knowledge from available research to their own professional practice and designs and conducts methodical, small-scale, practice-oriented research themselves.</td>
+    <td>Capable of conducting independent research following the work cycle of practice-oriented research.</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Social Communicative Skills</td>
+    <td>The nascent business administrative professional can convey ideas, opinions, positions, and decisions in a comprehensible and convincing manner both in Dutch and English, tailored to the listener, or put into writing in a comprehensible and correct language tailored to the reader. Aware of their own role in the interaction with others and can employ conversational skills to direct achieving business administrative goals.</td>
+    <td>Can communicate effectively in writing and verbally at all internal levels and in the prevailing business language, often in Dutch and/or English. Can clarify an advisory query. Knows how to distinguish between different forms of conversation and communication and apply them purposefully.</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Switching and Connecting</td>
+    <td>The nascent professional can establish valuable (international) relationships and alliances within and outside the organizational chain to obtain information, support, and cooperation. Understands what is necessary to make relevant connections between people and various functional areas and levels and can switch between them with ease.</td>
+    <td>Can map the field of forces of internal and external actors of a (temporary) organization. Can manage and evaluate existing relationships.</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Professionalizing</td>
+    <td>The nascent business administrative professional is capable, through reflection, of continuing to develop professionally and contributing to the development of the organization and professional practice by utilizing experiences and feedback for personal growth.</td>
+    <td>The student presents new insights from results from theory and practice. Based on self-reflection and environmental reflection, can work in a structured manner on their development.</td>
 
 
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>Acting from Values</td>
-      <td>The nascent business administrative professional acts from a sense of values and, in seeking solutions to business administrative issues, is mindful of the potential consequences of (conscious or unconscious) choices and actions in the long term.</td>
-      <td>Is aware of the possible consequences of business administrative actions for stakeholders, the environment, and society.</td>
-    </tr>
-    <tr>
-      <td>Overarching</td>
-      <td>Business Administrative Reasoning</td>
-      <td>The nascent professional is capable of formulating substantiated arguments for an integrated advisory based on data, theory, professional business administrative expertise, and personal input, so that decision-making can be based on it. The student understands the business administrative aspects in relation to each other according to the business administrative model (levels/breadth: disciplines).</td>
-      <td>The student substantiates a business administrative advisory by applying business knowledge and skills in the continuous process of data collection and analysis, aimed at the questions and problems of an organization and its stakeholders.</td>
-    </tr>
-  </tbody>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Acting from Values</td>
+    <td>The nascent business administrative professional acts from a sense of values and, in seeking solutions to business administrative issues, is mindful of the potential consequences of (conscious or unconscious) choices and actions in the long term.</td>
+    <td>Is aware of the possible consequences of business administrative actions for stakeholders, the environment, and society.</td>
+  </tr>
+  <tr>
+    <td>Overarching</td>
+    <td>Business Administrative Reasoning</td>
+    <td>The nascent professional is capable of formulating substantiated arguments for an integrated advisory based on data, theory, professional business administrative expertise, and personal input, so that decision-making can be based on it. The student understands the business administrative aspects in relation to each other according to the business administrative model (levels/breadth: disciplines).</td>
+    <td>The student substantiates a business administrative advisory by applying business knowledge and skills in the continuous process of data collection and analysis, aimed at the questions and problems of an organization and its stakeholders.</td>
+  </tr>
+</tbody>
 </table>
 </div>
 ```
@@ -195,72 +195,72 @@ See below for Dutch version.
   <table class="table table-striped table-hover">
 <thead>
 <tr>
-  <th scope="col">#</th>
-  <th scope="col">Competentie</th>
-  <th scope="col">Beschrijving</th>
-  <th scope="col">Niveau 2</th>
+<th scope="col">#</th>
+<th scope="col">Competentie</th>
+<th scope="col">Beschrijving</th>
+<th scope="col">Niveau 2</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-  <td>1</td>
-  <td>Probleem herkennen en diagnosticeren</td>
-  <td>De startende BK-professional is in staat om problemen (cq. vraagstukken) van organisatorische aard te signaleren, te analyseren en te beoordelen ten behoeve van de effectiviteit van een organisatie en deze uit te werken tot een bedrijfskundig vraagstuk.</td>
-  <td>Kan een bedrijfskundig probleem onderkennen, mogelijke oorzaken en dwarsverbanden identificeren en beoordelen met behulp van meerdere bedrijfskundige analysetechnieken. Gaat hierbij op zoek naar aanvullende relevante en betrouwbare informatiebronnen.</td>
+<td>1</td>
+<td>Probleem herkennen en diagnosticeren</td>
+<td>De startende BK-professional is in staat om problemen (cq. vraagstukken) van organisatorische aard te signaleren, te analyseren en te beoordelen ten behoeve van de effectiviteit van een organisatie en deze uit te werken tot een bedrijfskundig vraagstuk.</td>
+<td>Kan een bedrijfskundig probleem onderkennen, mogelijke oorzaken en dwarsverbanden identificeren en beoordelen met behulp van meerdere bedrijfskundige analysetechnieken. Gaat hierbij op zoek naar aanvullende relevante en betrouwbare informatiebronnen.</td>
 </tr>
 <tr>
-  <td>2</td>
-  <td>Ontwerpen</td>
-  <td>De startende BK professional is in staat met een onderzoekende en nieuwsgierige houding op basis van een programma van eisen, ontwikkelingen en trends en evidence-based practices nieuwe ideeën te signaleren, te genereren en uit te voeren om de effectiviteit van een organisatie te verbeteren en bedrijfsprocessen te (her)ontwerpen.</td>
-  <td>Genereert en selecteert creatieve ideeën waardoor nieuwe mogelijkheden of oplossingen worden ontwikkeld en kan deze toepassen om bedrijfsprocessen en structuren te verbeteren, rekening houdend met kwaliteitscriteria.</td>
+<td>2</td>
+<td>Ontwerpen</td>
+<td>De startende BK professional is in staat met een onderzoekende en nieuwsgierige houding op basis van een programma van eisen, ontwikkelingen en trends en evidence-based practices nieuwe ideeën te signaleren, te genereren en uit te voeren om de effectiviteit van een organisatie te verbeteren en bedrijfsprocessen te (her)ontwerpen.</td>
+<td>Genereert en selecteert creatieve ideeën waardoor nieuwe mogelijkheden of oplossingen worden ontwikkeld en kan deze toepassen om bedrijfsprocessen en structuren te verbeteren, rekening houdend met kwaliteitscriteria.</td>
 </tr>
 <tr>
-  <td>3</td>
-  <td>Veranderen</td>
-  <td>De bedrijfskundige professional is in staat om (complexe) veranderingsprocessen vorm te geven en te (bege)leiden door verbinding te creëren tussen vakgebieden, structuren, mensen en processen. Hij hanteert hierbij een op draagvlak gerichte aanpak.</td>
-  <td>Kan vanuit een veranderkundige aanpak met bijbehorende rollen een bedrijfskundige verandering opzetten en begeleiden. Kan diverse passende veranderstrategieën formuleren en onderbouwen.</td>
+<td>3</td>
+<td>Veranderen</td>
+<td>De bedrijfskundige professional is in staat om (complexe) veranderingsprocessen vorm te geven en te (bege)leiden door verbinding te creëren tussen vakgebieden, structuren, mensen en processen. Hij hanteert hierbij een op draagvlak gerichte aanpak.</td>
+<td>Kan vanuit een veranderkundige aanpak met bijbehorende rollen een bedrijfskundige verandering opzetten en begeleiden. Kan diverse passende veranderstrategieën formuleren en onderbouwen.</td>
 </tr>
 <tr>
-  <td>4</td>
-  <td>Evalueren</td>
-  <td>De startende bedrijfskundige professional is in staat de effectiviteit van verbeteracties te beoordelen en advies te geven over verdere ontwikkeling van de organisatie. De evaluatie wordt gebruikt om het leren van de organisatie te verbeteren en is gericht op de eerder gemaakte keuzes (diagnose en ontwerp).</td>
-  <td>Kan voor een verbeteractie/maatregel/beleid/project beoordelen met toepassing van bedrijfskundige modellen, bediscussieert daarbij de gestelde normen en doet aanbevelingen voor structurele verbetering.</td>
+<td>4</td>
+<td>Evalueren</td>
+<td>De startende bedrijfskundige professional is in staat de effectiviteit van verbeteracties te beoordelen en advies te geven over verdere ontwikkeling van de organisatie. De evaluatie wordt gebruikt om het leren van de organisatie te verbeteren en is gericht op de eerder gemaakte keuzes (diagnose en ontwerp).</td>
+<td>Kan voor een verbeteractie/maatregel/beleid/project beoordelen met toepassing van bedrijfskundige modellen, bediscussieert daarbij de gestelde normen en doet aanbevelingen voor structurele verbetering.</td>
 </tr>
 <tr>
-  <td>5</td>
-  <td>Onderzoekend vermogen</td>
-  <td>De startende professional beargumenteert de keuze voor rol en aanpak om tot oplossing te komen van het bedrijfskundige vraagstuk. In de aanpak beschikt hij over een onderzoekende houding van waaruit hij denkt en werkt. Hij past kennis uit beschikbaar onderzoek toe in de eigen werkpraktijk en ontwerpt en voert methodisch zelf (kleinschalig) praktijkgericht onderzoek uit.</td>
-  <td>In staat zelf onderzoek te doen volgens de werkcyclus van praktijkgericht onderzoek.</td>
+<td>5</td>
+<td>Onderzoekend vermogen</td>
+<td>De startende professional beargumenteert de keuze voor rol en aanpak om tot oplossing te komen van het bedrijfskundige vraagstuk. In de aanpak beschikt hij over een onderzoekende houding van waaruit hij denkt en werkt. Hij past kennis uit beschikbaar onderzoek toe in de eigen werkpraktijk en ontwerpt en voert methodisch zelf (kleinschalig) praktijkgericht onderzoek uit.</td>
+<td>In staat zelf onderzoek te doen volgens de werkcyclus van praktijkgericht onderzoek.</td>
 </tr>
 <tr>
-  <td>6</td>
-  <td>Sociaal communicatieve vaardigheden</td>
-  <td>De startende BK professional kan zowel in de Nederlandse als Engelse taal ideeën, meningen, standpunten, en besluiten begrijpelijk en overtuigend overbrengen afgestemd op de toehoorder en/of in begrijpelijke en correcte taal op schrift stellen en afstemmen op de lezer. Bewust van de eigen rol in de interactie met anderen en kan gespreksvaardigheden inzetten om sturing te geven aan het realiseren van de bedrijfskundige doelen.</td>
-  <td>Kan mondeling en schriftelijk communiceren intern op alle niveaus effectief en in de gangbare bedrijfstaal, veelal in het Nederlands en/of Engels. Kan een adviesvraag helder krijgen. Weet verschillende gespreks- en communicatievormen te onderscheiden en gericht toe te passen.</td>
+<td>6</td>
+<td>Sociaal communicatieve vaardigheden</td>
+<td>De startende BK professional kan zowel in de Nederlandse als Engelse taal ideeën, meningen, standpunten, en besluiten begrijpelijk en overtuigend overbrengen afgestemd op de toehoorder en/of in begrijpelijke en correcte taal op schrift stellen en afstemmen op de lezer. Bewust van de eigen rol in de interactie met anderen en kan gespreksvaardigheden inzetten om sturing te geven aan het realiseren van de bedrijfskundige doelen.</td>
+<td>Kan mondeling en schriftelijk communiceren intern op alle niveaus effectief en in de gangbare bedrijfstaal, veelal in het Nederlands en/of Engels. Kan een adviesvraag helder krijgen. Weet verschillende gespreks- en communicatievormen te onderscheiden en gericht toe te passen.</td>
 </tr>
 <tr>
-  <td>7</td>
-  <td>Schakelen en verbinden</td>
-  <td>De startende professional kan waardevolle (internationale) relaties leggen en allianties aangaan binnen en buiten de organisatie(keten) voor het verkrijgen van informatie, steun en medewerking. Hij weet wat er nodig is om relevante verbindingen te leggen tussen mensen en de verschillende functionele gebieden en niveaus en kan daar soepel tussen schakelen.</td>
-  <td>Kan het krachtenveld van in- en externe actoren van een (tijdelijke) organisatie in kaart brengen. Kan bestaande relaties beheren en evalueren.</td>
+<td>7</td>
+<td>Schakelen en verbinden</td>
+<td>De startende professional kan waardevolle (internationale) relaties leggen en allianties aangaan binnen en buiten de organisatie(keten) voor het verkrijgen van informatie, steun en medewerking. Hij weet wat er nodig is om relevante verbindingen te leggen tussen mensen en de verschillende functionele gebieden en niveaus en kan daar soepel tussen schakelen.</td>
+<td>Kan het krachtenveld van in- en externe actoren van een (tijdelijke) organisatie in kaart brengen. Kan bestaande relaties beheren en evalueren.</td>
 </tr>
 <tr>
-  <td>8</td>
-  <td>Professionaliseren</td>
-  <td>De startende BK professional is in staat via de weg van reflectie zich professioneel te blijven ontwikkelen en een bijdrage te leveren aan de ontwikkeling van de organisatie en de beroepspraktijk door opgedane ervaringen en feedback te gebruiken voor persoonlijke groei.</td>
-  <td>De student reikt nieuwe inzichten aan uit resultaten uit theorie en praktijk. Kan, op basis van reflectie op zichzelf en van de omgeving, gestructureerd aan zijn ontwikkeling werken.</td>
+<td>8</td>
+<td>Professionaliseren</td>
+<td>De startende BK professional is in staat via de weg van reflectie zich professioneel te blijven ontwikkelen en een bijdrage te leveren aan de ontwikkeling van de organisatie en de beroepspraktijk door opgedane ervaringen en feedback te gebruiken voor persoonlijke groei.</td>
+<td>De student reikt nieuwe inzichten aan uit resultaten uit theorie en praktijk. Kan, op basis van reflectie op zichzelf en van de omgeving, gestructureerd aan zijn ontwikkeling werken.</td>
 </tr>
 <tr>
-  <td>9</td>
-  <td>Handelen vanuit waarden</td>
-  <td>De startende bedrijfskundige professional handelt vanuit een waardenbesef en heeft bij het zoeken naar oplossingen voor bedrijfskundige vraagstukken oog voor mogelijke consequenties van (bewuste of onbewuste) keuzes en handelingen op de langere termijn.</td>
-  <td>Heeft zicht op de mogelijke consequenties van bedrijfskundig handelen voor stakeholders, milieu en maatschappij.</td>
+<td>9</td>
+<td>Handelen vanuit waarden</td>
+<td>De startende bedrijfskundige professional handelt vanuit een waardenbesef en heeft bij het zoeken naar oplossingen voor bedrijfskundige vraagstukken oog voor mogelijke consequenties van (bewuste of onbewuste) keuzes en handelingen op de langere termijn.</td>
+<td>Heeft zicht op de mogelijke consequenties van bedrijfskundig handelen voor stakeholders, milieu en maatschappij.</td>
 </tr>
 <tr>
-  <td>Overkoepelend</td>
-  <td>Bedrijfskundig redeneren</td>
-  <td>De startende professional is in staat tot onderbouwde argumenten te komen voor een integraal advies op basis van data, theorie, de bedrijfskundige professionele vakmanschap en persoonlijke inbreng, zodat besluitvorming hierop plaats kan vinden. De student heeft zicht op de bedrijfskundige aspecten in relatie tot elkaar conform het bedrijfskundig model (niveaus/breedte: disciplines).</td>
-  <td>De student onderbouwt een bedrijfskundig advies door bedrijfskundige kennis en vaardigheid toe te passen in het continu proces van gegevensverzameling en analyse, gericht op de vragen en problemen van een organisatie en diens stakeholders.</td>
+<td>Overkoepelend</td>
+<td>Bedrijfskundig redeneren</td>
+<td>De startende professional is in staat tot onderbouwde argumenten te komen voor een integraal advies op basis van data, theorie, de bedrijfskundige professionele vakmanschap en persoonlijke inbreng, zodat besluitvorming hierop plaats kan vinden. De student heeft zicht op de bedrijfskundige aspecten in relatie tot elkaar conform het bedrijfskundig model (niveaus/breedte: disciplines).</td>
+<td>De student onderbouwt een bedrijfskundig advies door bedrijfskundige kennis en vaardigheid toe te passen in het continu proces van gegevensverzameling en analyse, gericht op de vragen en problemen van een organisatie en diens stakeholders.</td>
 </tr>
 </tbody>
 </table>

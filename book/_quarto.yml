@@ -10,7 +10,8 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - workshop-1.qmd
+    - nature-of-change.qmd
+    - change-mgmt.qmd
     - agility.qmd
     - feedback.qmd
     - references.qmd

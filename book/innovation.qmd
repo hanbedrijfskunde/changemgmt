@@ -1,0 +1,17 @@
+---
+title: "Innovation"
+jupyter: envpy39
+---
+
+![](images/explore-exploit.jpeg)
+
+From: @noauthor_business_nodate
+
+```{=html}
+<div class="embed-responsive embed-responsive-16by9 my-3">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/69SSKGU5GP8?si=qL9gs83wAAQ9Fjjh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+```
+![](images/gartner-radar.png)
+
+![](images/the-ai-opportunity-radar.png)
