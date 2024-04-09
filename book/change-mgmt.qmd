@@ -30,14 +30,13 @@ As the hero returns transformed, so does the organization ascend to a higher pla
 -   Large sheets of paper or a whiteboard
 -   Markers of various colors
 -   Sticky notes in multiple colors
-- Tape
+-   Tape
 
 ```{=html}
 <div class="embed-responsive embed-responsive-16by9 my-3">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hhk4N9A0oCA?si=r-S_0QgNaLQT0Zvy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 ```
-
 **Participant Instructions:**
 
 1.  **Introduction to the Concept** (15 minutes):
@@ -59,7 +58,7 @@ As the hero returns transformed, so does the organization ascend to a higher pla
 6.  **Illustrating the Transformation** (20 minutes):
     -   Visualize the organization's transformation and the "new normal" that emerged post-change.
     -   Detail how the change has positively impacted the organization on your storyboard.
-7.  **Presenting Your Journey**  (45 minutes):
+7.  **Presenting Your Journey** (45 minutes):
     -   Prepare to present your storyboard to the class, explaining each stage of the organization’s journey through change.
     -   Be ready to discuss the metaphor's relevance to the change management process.
 8.  **Reflecting on the Experience** (15 minutes):
@@ -78,23 +77,29 @@ As the hero returns transformed, so does the organization ascend to a higher pla
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IjcSKukg9IE?si=JUidarUi88I-Jev9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 ```
+**Ordinary World:** LEGO's story began in the tranquil town of Billund, Denmark, in 1932. Created by Ole Kirk Kristiansen, LEGO bricks offered children endless possibilities for imaginative play. For decades, LEGO enjoyed steady growth, never facing a loss until the late 1990s. This period represents LEGO's "ordinary world," where traditional, analog toys were the foundation of children's entertainment.
 
-**Ordinary World:**
-LEGO's story began in the tranquil town of Billund, Denmark, in 1932. Created by Ole Kirk Kristiansen, LEGO bricks offered children endless possibilities for imaginative play. For decades, LEGO enjoyed steady growth, never facing a loss until the late 1990s. This period represents LEGO's "ordinary world," where traditional, analog toys were the foundation of children's entertainment.
+**The Call to Adventure:** The advent of the digital era in the early 2000s presented LEGO with its call to adventure. As video games and digital media began to dominate the toy industry, LEGO found its traditional brick sets under threat. This pivotal moment forced LEGO to confront the growing shift towards digital entertainment and reconsider its place in an evolving market.
 
-**The Call to Adventure:**
-The advent of the digital era in the early 2000s presented LEGO with its call to adventure. As video games and digital media began to dominate the toy industry, LEGO found its traditional brick sets under threat. This pivotal moment forced LEGO to confront the growing shift towards digital entertainment and reconsider its place in an evolving market.
+**Trials, Mentors, and Crossing the Threshold:** Faced with declining sales and a significant debt, LEGO embarked on a perilous journey. The company diversified its portfolio, venturing into video games, theme parks, and even clothing, in an attempt to remain relevant. However, these ventures almost led to the company's downfall. The trial was LEGO's near bankruptcy, and the mentor who emerged was Jørgen Vig Knudstorp. Knudstorp, a former McKinsey consultant, joined LEGO and swiftly ascended to CEO, recognizing that the core value of LEGO lay in its simple brick. He guided LEGO across the threshold, focusing on the brick's potential to bridge the analog and digital worlds.
 
-**Trials, Mentors, and Crossing the Threshold:**
-Faced with declining sales and a significant debt, LEGO embarked on a perilous journey. The company diversified its portfolio, venturing into video games, theme parks, and even clothing, in an attempt to remain relevant. However, these ventures almost led to the company's downfall. The trial was LEGO's near bankruptcy, and the mentor who emerged was Jørgen Vig Knudstorp. Knudstorp, a former McKinsey consultant, joined LEGO and swiftly ascended to CEO, recognizing that the core value of LEGO lay in its simple brick. He guided LEGO across the threshold, focusing on the brick's potential to bridge the analog and digital worlds.
+**The Ordeal and Seizing the Sword:** LEGO's ordeal was its battle against obsolescence in the face of digital media's ascendancy. The company realized that its strength lay not in abandoning the brick, but in integrating it with digital innovation. LEGO seized the sword by partnering with popular franchises like Star Wars, embracing content creation with The LEGO Movie, and engaging with its adult fan base. These strategies not only saved LEGO from financial ruin but also revitalized its brand, making it more relevant than ever.
 
-**The Ordeal and Seizing the Sword:**
-LEGO's ordeal was its battle against obsolescence in the face of digital media's ascendancy. The company realized that its strength lay not in abandoning the brick, but in integrating it with digital innovation. LEGO seized the sword by partnering with popular franchises like Star Wars, embracing content creation with The LEGO Movie, and engaging with its adult fan base. These strategies not only saved LEGO from financial ruin but also revitalized its brand, making it more relevant than ever.
-
-**The Return with the Elixir:**
-Returning from its journey transformed, LEGO reclaimed its status as the world's most powerful brand, with soaring profits and a global fan base that spans generations. The elixir LEGO brought back was a new understanding of its identity. By honoring its roots while embracing the future, LEGO ensured its place in both the analog and digital realms. Today, LEGO continues to innovate, focusing on sustainability, inclusivity, and the endless potential of creative play.
+**The Return with the Elixir:** Returning from its journey transformed, LEGO reclaimed its status as the world's most powerful brand, with soaring profits and a global fan base that spans generations. The elixir LEGO brought back was a new understanding of its identity. By honoring its roots while embracing the future, LEGO ensured its place in both the analog and digital realms. Today, LEGO continues to innovate, focusing on sustainability, inclusivity, and the endless potential of creative play.
 
 This journey of transformation, from near bankruptcy to unparalleled success, mirrors the hero's journey. LEGO faced and overcame its trials, guided by visionary leadership, and returned victorious, its legacy secured for future generations to build upon.
+
+```{=html}
+<div class="embed-responsive embed-responsive-16by9 my-3">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lOdcAdqGFnM?si=JSn2LqVvrn5Clf0i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+```
+
+```{=html}
+<div class="embed-responsive embed-responsive-16by9 my-3">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Jgsi0rAnqQ?si=pbo-fRz_fKFgEm8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+```
 
 ## Change Management Frameworks
 
@@ -120,7 +125,6 @@ John Kotter's 8-Step Change Model is a widely recognized framework for managing 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gOhYT737ItY?si=atlvl9LbTWJ3ZAdR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 ```
-
 ### Prosci's ADKAR Model
 
 ![](images/adkar.png)
@@ -344,4 +348,3 @@ From: @waddell2019organisational
 
 Review the knowledge and skill requirements of the organization development practitioner, highlight the knowledge and the skills that you consider to be essential and produce a mini-personal development plan for those aspects you consider you need to develop.
 :::
-
